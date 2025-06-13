@@ -31,8 +31,8 @@ jobs:
 
     - name: Commit results
       run: |
-        git config user.name "github-actions"
-        git config user.email "github-actions@github.com"
+        git config user.name "Minh Tran"
+        git config user.email "tnaminh@tma.com.vn"
         git add scan-results.txt
         git commit -m "Update scan results" || echo "No changes to commit"
         git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/minhtrangshop/keyword-scanner.git
