@@ -2,7 +2,7 @@ name: Keyword Scanner
 
 on:
   schedule:
-    - cron: '30 11 * * *'  # Chạy hàng ngày lúc 05:00 UTC
+    - cron: '0 5 * * *'  # Chạy hàng ngày lúc 05:00 UTC
   workflow_dispatch:
 
 jobs:
