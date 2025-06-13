@@ -44,7 +44,7 @@ jobs:
         server_address: smtp.gmail.com
         server_port: 587
         username: tnaminh@gmail.com
-        password: anhminh*
+        password: vqui cmbt qvys rrad
         subject: "[Keyword Scanner] GitHub scan result - ${{ github.run_number }}"
         to: ${{ secrets.EMAIL_TO }}
         from: Minh Tran <${{ secrets.EMAIL_USERNAME }}>
