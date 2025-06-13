@@ -2,7 +2,7 @@ name: Keyword Scanner
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # Chạy hàng ngày lúc 05:00 UTC
+    - cron: '30 11 * * *'  # Chạy hàng ngày lúc 05:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -40,15 +40,21 @@ jobs:
         
     - name: Send result to Slack if results found
       if: success() && steps.scan.outputs.result_found == 'true'
-      env:
-        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-      run: |
-        payload=$(jq -n --arg text "🔍 GitHub Scan found keyword matches!
-        
-        *Repo:* ${{ github.repository }}
-        *Results:* https://github.com/${{ github.repository }}/blob/main/scan-results.txt" '{text: $text}')
-        curl -X POST -H 'Content-type: application/json' \
-          --data "$payload" \
-          "$SLACK_WEBHOOK_URL"
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: ${{ secrets.EMAIL_SMTP_SERVER }}
+        server_port: ${{ secrets.EMAIL_SMTP_PORT }}
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: "🔍 GitHub Scan found keyword matches"
+        to: tnaminh@tma.com.vn
+        from: ${{ secrets.EMAIL_USERNAME }}
+        content_type: text/plain
+        body: |
+          GitHub Scan found keyword matches!
+
+          Repo: ${{ github.repository }}
+          Results: https://github.com/${{ github.repository }}/blob/main/scan-results.txt
+
 
 
