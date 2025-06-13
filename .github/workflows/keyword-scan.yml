@@ -38,7 +38,23 @@ jobs:
         git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/minhtrangshop/keyword-scanner.git
         git pull origin master --rebase || echo "Nothing to rebase"
         git push origin HEAD:master
-        
+    - name: Send scan result via email
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: "[Keyword Scanner] GitHub scan result - ${{ github.run_number }}"
+        to: ${{ secrets.EMAIL_TO }}
+        from: Minh Tran <${{ secrets.EMAIL_USERNAME }}>
+        content_type: text/plain
+        body: |
+          - Repo: ${{ github.repository }}
+          - Branch: ${{ github.ref }}
+          - Trigger: ${{ github.event_name }}
+          - Time: ${{ github.run_started_at }}
+        attachments: scan-results.txt
 
 
 
