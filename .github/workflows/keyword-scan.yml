@@ -36,17 +36,9 @@ jobs:
         git add scan-results.txt
         git commit -m "Update scan results" || echo "No changes to commit"
         git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/minhtrangshop/keyword-scanner.git
-        git push origin HEAD:main
+        git pull origin master --rebase || echo "Nothing to rebase"
+        git push origin HEAD:master
         
-    - name: Send result to Slack if results found
-      run: |
-        payload=$(jq -n --arg text "🔍 GitHub Scan found keyword matches!
-        
-        *Repo:* ${{ github.repository }}
-        *Results:* https://github.com/${{ github.repository }}/blob/main/scan-results.txt" '{text: $text}')
-        curl -X POST -H 'Content-type: application/json' \
-          --data "$payload" \
-          "$SLACK_WEBHOOK_URL"
 
 
 
