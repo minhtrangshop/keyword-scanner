@@ -1,151 +1,168 @@
 🔎 Keyword: TalkscriptViewer (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: copyModelCallFaqTemplateInfo (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: getCallDetailDefaultModelData (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: setTdCallActionLogLayout (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: mergeCustomerAfterFunction (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: updateCallKnowledgeInfoList (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: contractorSearchListener (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: fhAmiVoiceWebClientManager (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: updateStaffLastReadActivityMsg (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+🔎 Keyword: CDRTrafficReport (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: KaianCreator (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
 🔎 Keyword: com.ntt.smartpbx (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: SoCoreNumberChange (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: SoHenkouHenkou (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: SoHenkouSakuzyo (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: SoHenkouTsuika (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: jp.co.ntt.marble (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: esnossAlarm (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
-🔎 Keyword: CssbAlarm (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: scenarioFlowDef.bpmn (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+🔎 Keyword: MediatorFivegcMonitor (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: MediatorFivegcRadius (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: MediatorFivegcReleaseFip (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: MediatorFivegcSimGroupDb (2 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: MediatorFivegcSimGroupDbSim (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: MediatorFivegcSimGroupDbVgw (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: MediatorFpgaVgw (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: MediatorGetResumeInfo (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: MediatorMoBills (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
-🔎 Keyword: MediatorOpenStackCP (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: MediatorPh2Epc (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: MediatorPh2ReleaseFip (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: MediatorPh2SimGroupDb (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+🔎 Keyword: 5gcsimgroupdb (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: ph2simgroupdb (2 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+🔎 Keyword: ph2credentialdb (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: epcinfodb (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: 5gcinfodb (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: ph2epcinfodb (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
 🔎 Keyword: delete-vcube-session (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: drillserver_application (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
 🔎 Keyword: drillserver_batch (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
-🔎 Keyword: drillserver_htmlconvert (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: frontgw_deploycustomdomainlambda (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: frontgw_maillambda (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: frontgw_maillamdba_processsendmailresult (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: frontgw_maillamdba_sendmail (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: frontgw_reloadipadresseslamdba (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+🔎 Keyword: external.fcm.baseUrl (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: int_rounded_clipped_x (2 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+🔎 Keyword: PER_PAGE_MEDICAL_EXAMINATION_DETAIL (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: deepprotect-tp (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: deepprotect_tp (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: IERAE_ID (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: tpars-vision-ai (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
 🔎 Keyword: tpars-analysis (2 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan-results.txt
-🔎 Keyword: TPARSANALYSIS (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: IDEA_YAML_FILE_PATH (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: CORR_RAND_MT_COUNT_AT_ONCE_MAX (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: test_largemem_corr_rand_gen_prand_u32 (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: clipped_int_rounded_clipped_x (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: KARTE_RP_SUPPORT_EMAIL_ADDRESS (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: KARTE_OIDC_RESPONSE_URL (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: Deviation_LifeWorkBalanceClass_HarassmentClass (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: SiteManagement.Check "Approval Flow Detail" SW Is Displayed by New Mode (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: ${KNOWLEDGE_MANAGEMENT_URL} (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: Global_Navigation.Open Client Script List Screen From Global Navigation (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: MyTicket_Supervisor.Check First Category Row Is Displayed On List After Set Multiple Category (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: KN_Dashboard.Create Knowledge For Waiting Approval (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: SideMenu_Navigation.Open New SMS Screen (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: SupportGroupManagement.Close TalkScript Editor SW (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: ${URL_BASE}/CallManage.html (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: rbxframework (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: seatmap-tenant-config-loader (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: seatmap-tenant-user-loader (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: dashboard-manual-amazon-connect (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: dashboard-provider-amazon-connect (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: dashboard-provider-purecloud (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: dashboard-setupper-amazon-connect (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: dashboard-tenant-config-loader (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: dashboard-tenant-user-loader (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
-🔎 Keyword: com.icario.dhp (1 hits)
-  → https://github.com/minhtrangshop/keyword-scanner/blob/17c7a9f017ac226ea6f3e8c95b36d02bac851214/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+🔎 Keyword: TPARSANALYSIS (2 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+🔎 Keyword: com.dp.authentication (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: com.dp.retail (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: com.dhl.esc.gemini (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: com.dhl.pos (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: com.dhl.ecpay (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: Testcase 5.11_212 (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: LoginAndLogout.Logout FH (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: ${SERVER_IP}/fasthelp5 (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: SiteManagement.Check "Approval Flow Detail" SW Is Displayed by New Mode (2 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan-results.txt
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: RBXDBG_LOG_AND_BREAK (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: seatmap-api-client (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: seatmap-communication-client (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: seatmap-data-eliminator (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: seatmap-manual-amazon-connect (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: seatmap-operator-client (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: seatmap-provider-purecloud (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: seatmap-provider-storm (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: seatmap-setupper-amazon-connect (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: sheet_parent_child_master_mapping_all (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: sheet_product_group_header_mapping_all (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: sheet_product_type_header_mapping_all (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: sheet_parent_child_header_mapping_all (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: find_carton_left_side (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
+🔎 Keyword: create_sheet_details_container_pack (1 hits)
+  → https://github.com/minhtrangshop/keyword-scanner/blob/03948e68b66b9b788faba5f5d6755fea2b4c4987/scan.py
